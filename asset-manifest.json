@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/LaissezFaire-DosSantos-React4/static/css/main.f04303cc.css",
-    "main.js": "/LaissezFaire-DosSantos-React4/static/js/main.1ee8c30b.js",
+    "main.js": "/LaissezFaire-DosSantos-React4/static/js/main.a830781c.js",
     "static/js/787.b177cfb1.chunk.js": "/LaissezFaire-DosSantos-React4/static/js/787.b177cfb1.chunk.js",
     "static/media/bootstrap-icons.woff?": "/LaissezFaire-DosSantos-React4/static/media/bootstrap-icons.7ff3ca6fa798de3f8ac2.woff",
     "static/media/bootstrap-icons.woff2?": "/LaissezFaire-DosSantos-React4/static/media/bootstrap-icons.f2539a501be3a673de05.woff2",
     "index.html": "/LaissezFaire-DosSantos-React4/index.html",
     "main.f04303cc.css.map": "/LaissezFaire-DosSantos-React4/static/css/main.f04303cc.css.map",
-    "main.1ee8c30b.js.map": "/LaissezFaire-DosSantos-React4/static/js/main.1ee8c30b.js.map",
+    "main.a830781c.js.map": "/LaissezFaire-DosSantos-React4/static/js/main.a830781c.js.map",
     "787.b177cfb1.chunk.js.map": "/LaissezFaire-DosSantos-React4/static/js/787.b177cfb1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f04303cc.css",
-    "static/js/main.1ee8c30b.js"
+    "static/js/main.a830781c.js"
   ]
 }
